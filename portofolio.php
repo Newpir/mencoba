@@ -13,7 +13,7 @@
 
 <body>
 	<?php include "navbar.php" ?>
-	<h2 style="text-align: center;">List Portofolio</h2>
+	<h2 style="text-align: center;">List Biodata </h2>
 	<div class="porto-content">
 		<?php for($i = 0; $i < 10; $i++) { ?>
 			<div class="porto-item">
