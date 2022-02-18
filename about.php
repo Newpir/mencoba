@@ -28,7 +28,7 @@
                     <td><?php echo $array1[0]; ?></td>
                 </tr>
                 <tr>
-                    <td><b>Jenis Kelamin</b></td>
+                    <td><b>JK</b></td>
                     <td>: </td>
                     <td><?php echo $array1[1]; ?></td>
                 </tr>
