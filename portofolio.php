@@ -19,7 +19,7 @@
 			<div class="porto-item">
 				<div class="porto-title"><b>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</b></div>
 				<div class="porto-desc">
-				Sin embargo, se debe observar que estos costes de reestructuración [13] incluyen costes para el período 1995-2001, es decir, incluida la reestructuración fallida después de la privatización.
+					No one wants a Korean rocket in their air space as such, its trajectory will show who Pyongyang is most willing to infuriate.
 				</div>
 				<a class="button" href="#detail">Detail</a>
 			</div>
