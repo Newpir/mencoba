@@ -18,7 +18,7 @@
     <?php include "navbar.php" ?>
     <div class="content">
         <h2>Selamat Datang di Website Saya</h2>
-        <h4>Savira Auliya Ardana</h4>
+        <h4>altera</h4>
     </div>
 </body>
 
